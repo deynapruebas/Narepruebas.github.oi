@@ -1,0 +1,15 @@
+body{font-family:Arial,sans-serif;margin:0;background:#f8f8f8;color:#333}
+header{background:rgb(0, 99, 119);color:white;text-align:center;padding:20px}
+.logo{width:80px;display:block;margin:0 auto 10px auto}
+nav ul{list-style:none;background:#0a9396;margin:0;padding:10px;display:flex;justify-content:center}
+nav ul li{margin:0 15px}
+nav ul li a{text-decoration:none;color:white;font-weight:bold}
+nav ul li a:hover{color:yellow}
+main{padding:20px}
+.caja-info{background:#e0f7fa;border:2px solid #0a9396;padding:15px;margin:20px 0;border-radius:10px}
+table{width:80%;margin:0 auto;border-collapse:collapse}
+table,th,td{border:1px solid #27c9b4ff;padding:8px;text-align:center}
+th{background:#94d2bd}
+.galeria{display:flex;justify-content:center;gap:15px}
+.galeria img{width:250px;border-radius:10px;border:2px solid #005f73}
+footer{background:#005f73;color:white;text-align:center;padding:10px 0;margin-top:20px}
